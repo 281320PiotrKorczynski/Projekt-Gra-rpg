@@ -1,0 +1,6 @@
+Projekt gra rpg na bazie sapera
+Gra będzie generować mapę z losowymi zdarzeniami na każdej kratce na którą nasza postać będzie wchodzić.
+Postać będzie mogła wybrać specjalizacje dającą małe bonusy do jakiejś cechy przy rozpoczęciu rozgrywki (Warrior, Rogue, Wizzard).
+Napotkanymi przeciwnikiem może być skeleton, orc albo boss(na końcu mapy). Każdy z nich będzie posiadał jakąś pojedyńczą, unikatową cechę.
+Postać będzie się rozwijała przez wygrane walki i przedmioty zdobyte w podróży. Postać będzie miała 4 cechy (HP, ATK, LUCK, AGL).
+Postacią będzie można sie poruszać po planszy. Interfejs (SFML).
