@@ -6,4 +6,6 @@ Do stworzenia gry użyłem programu Clion oraz 32 bitowej wersji SFMLa (2.5.1). 
 # -if (!font.loadFromFile("C:\\Users\\piotr\\OneDrive\\Pulpit\\projekt\\arial.ttf")) w kodzie na ścieżkę do pobranego pliku arial.ttf. 
 Do pewnego działania gry wymagane jest pobranie plików dodatkowych, z folderu o tej samej nazwie, a następnie umieszczenie ich w folderze z grą.
 
-Po skompilowaniu głównego pliku naszym oczą ukaże sie plansza po której można poruszać się naszym bohaterem za pomocą strzałek. Celem gry jest zdobywanie poziomów, zwiększanie statystyk podczas walki z wrogami. 
+Po skompilowaniu głównego pliku naszym oczą ukaże sie plansza po której można poruszać się naszym bohaterem za pomocą strzałek. Celem gry jest zdobywanie poziomów, zwiększanie statystyk podczas walki z wrogami aby zajść jak najdalej. Wychodząc poza mapę odnawia nam się życie ale przeciwnicy też stają się trudniejsi, dlatego lepiej się zastanowić czy to na pewno dobra pora aby przejść na kolejny poziom.
+
+
